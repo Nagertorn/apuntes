@@ -4,26 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "e30da1f1ef1fcf4f",
+        "id": "e5f5f3079b8921f5",
         "type": "leaf",
-        "dimension": 39.89473684210526,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Informatica/Git no prestar atencion.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "4f1ad503e6a25794",
-        "type": "leaf",
-        "dimension": 60.10526315789474,
+        "dimension": 42.725880551301685,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Procedimiento y comandos básicos de Git.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "3bed88ce49e0f98c",
+        "type": "leaf",
+        "dimension": 57.274119448698315,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Procedimiento y comandos básicos de Git.md",
+            "mode": "preview"
           }
         }
       }
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 249,
+    "collapsed": true
   },
   "right": {
     "id": "5aa935df4087ee25",
@@ -85,7 +86,7 @@
         "dimension": 30.192878338278934,
         "children": [
           {
-            "id": "3a0082eef13902dd",
+            "id": "bbf4cb3e5b2ac9dd",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -131,9 +132,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 307,
+    "collapsed": true
   },
-  "active": "4f1ad503e6a25794",
+  "active": "e5f5f3079b8921f5",
   "lastOpenFiles": [
     "Procedimiento y comandos básicos de Git.md",
     "Informatica/Git no prestar atencion.md",
