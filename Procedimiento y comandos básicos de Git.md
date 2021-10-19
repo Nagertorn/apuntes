@@ -174,4 +174,4 @@ Si quereremos actualizar
 
 6. `$ git pull`. Actualiza el repositorio.
 
-hey
+NO HEY
