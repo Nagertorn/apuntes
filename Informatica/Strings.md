@@ -3,7 +3,7 @@ Los/as **strings** son un [[Tipos de variable]] que están compuestas de cualqui
 
 P. ej.
 
-```
+```a
 	'scam'
 	'12caracteres'
 	'5/a ·"% @_*2'

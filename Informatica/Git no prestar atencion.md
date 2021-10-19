@@ -107,10 +107,10 @@ $ git commit -m "Esto es un comentario"
 Cuando commiteas se ponen en la cola de espera para subir.
 
 
-Antes de hacer el ``$ git push``, hay que crear el repositorio
+Antes de hacer el `$ git push`, hay que crear el repositorio
 
 En este ejemplo el repositorio se llama hello-world-dual
->Cuando creas 
+
 ```
 $ git remote -v
 ```
@@ -172,7 +172,7 @@ $ git pull
 
 
 COSAS IMPORTANTES:
-Dicho por el profesor: Cada repositorio tiene que tener una rama main, y ya si eso se crean secundarias
+Dicho por el profesor: Cada repositorio tiene una rama master, y ya si eso se crean secundarias
 
 Cuando trabajas con los comandos *git* siempre trabajas en la carpeta en la que estas, si haces un git add, commit, push, subes los archivos y directorio que estan en la carpeta en la que esta
 
@@ -185,9 +185,8 @@ Usar *git clone URL* crea automaticamente un archivo de configuracion .git, que 
 
 Usar *git log* para ver los ultimos cambios del archivo
 
-
 Por cada archivo modificado o creado tienes que hacer un add, commit, push, y en el otro sidpositivo se tiene que hacer un pull
 
 La contraseña que necesitas para modificar un repositorio
 
-La unica manera de que no pida la contraseña se necesita el git console gh. Ya lo enseñará
+La unica manera de que no pida la contraseña se necesita el git console gh. Ya lo enseñará. Spoiler: Hay otra materia
