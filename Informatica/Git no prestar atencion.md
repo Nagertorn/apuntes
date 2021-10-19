@@ -72,7 +72,7 @@ Para confirmar los cambios del último **commit** y guardarlos en el repositorio
 $ git push origin main
 ```
 
-
+## True comienzo
 
 Sin el siguiente comando no se pueden hacer control de versiones, y crea un fichero con opciones
 ```
@@ -107,10 +107,10 @@ $ git commit -m "Esto es un comentario"
 Cuando commiteas se ponen en la cola de espera para subir.
 
 
-Antes de hacer el *$ git push*, hay que crear el repositorio
+Antes de hacer el ``$ git push``, hay que crear el repositorio
 
 En este ejemplo el repositorio se llama hello-world-dual
-> Cuando creas 
+>Cuando creas 
 ```
 $ git remote -v
 ```

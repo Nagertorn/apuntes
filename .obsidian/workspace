@@ -6,22 +6,12 @@
       {
         "id": "e30da1f1ef1fcf4f",
         "type": "leaf",
-        "dimension": 43.73684210526316,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Informatica/ED/Crear un programa.md",
-            "mode": "preview"
+            "file": "Informatica/Git no prestar atencion.md",
+            "mode": "source"
           }
-        }
-      },
-      {
-        "id": "46bd8183c1823151",
-        "type": "leaf",
-        "dimension": 56.263157894736835,
-        "state": {
-          "type": "empty",
-          "state": {}
         }
       }
     ],
@@ -102,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Informatica/Git no prestar atencion.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,17 +120,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "46bd8183c1823151",
+  "active": "e30da1f1ef1fcf4f",
   "lastOpenFiles": [
-    "Calendario y Tareas/19-10-2021.md",
-    "Procedimiento y comandos básicos de Git.md",
-    "Informatica/ED/Crear un programa.md",
-    "Informatica/ED/Programa informático.md",
     "Informatica/Git no prestar atencion.md",
-    "Informatica/ED/Programa.md",
-    "Informatica/ED/Lenguaje máquina.md",
-    "Informatica/ED/Órdenes.md",
-    "Informatica/ED/Código fuente.md",
-    "Informatica/Lenguaje de programación.md"
+    "Recordatorios de estudio.md",
+    "Procedimiento y comandos básicos de Git.md",
+    "Informatica/Tipos de variable.md",
+    "Informatica/Strings.md",
+    "Informatica/Python.md",
+    "Informatica/Lenguaje de programación.md",
+    "Informatica/Lenguaje de programación orientado a objetos.md",
+    "Informatica/Integers.md",
+    "Informatica/SI/Untitled.md"
   ]
 }
