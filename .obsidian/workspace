@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "80a3b892750ccf12",
+    "type": "split",
+    "children": [
+      {
+        "id": "e30da1f1ef1fcf4f",
+        "type": "leaf",
+        "dimension": 43.73684210526316,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Informatica/ED/Crear un programa.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "46bd8183c1823151",
+        "type": "leaf",
+        "dimension": 56.263157894736835,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f09afcdefcee6bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "94bf9de1c07a39bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8eb459308cb45034",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "124a0253a0d8e585",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ED",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e438508bdf14cad",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5aa935df4087ee25",
+    "type": "split",
+    "children": [
+      {
+        "id": "b73edb17bd08c649",
+        "type": "tabs",
+        "dimension": 30.192878338278934,
+        "children": [
+          {
+            "id": "3a0082eef13902dd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "2ab68b6c392f07e0",
+        "type": "tabs",
+        "dimension": 69.80712166172107,
+        "children": [
+          {
+            "id": "9381112e84d46fc5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "98815ed166d0a35e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "46bd8183c1823151",
+  "lastOpenFiles": [
+    "Calendario y Tareas/19-10-2021.md",
+    "Procedimiento y comandos básicos de Git.md",
+    "Informatica/ED/Crear un programa.md",
+    "Informatica/ED/Programa informático.md",
+    "Informatica/Git no prestar atencion.md",
+    "Informatica/ED/Programa.md",
+    "Informatica/ED/Lenguaje máquina.md",
+    "Informatica/ED/Órdenes.md",
+    "Informatica/ED/Código fuente.md",
+    "Informatica/Lenguaje de programación.md"
+  ]
+}

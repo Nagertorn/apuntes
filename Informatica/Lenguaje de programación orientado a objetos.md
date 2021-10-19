@@ -1,0 +1,2 @@
+# Lenguaje de programación orientado a objetos
+Un **[[Lenguaje de programación]] orientado a objetos** es un lenguaje que permite transformar objetos de la vida real en piezas de codigo y tratarlos como tal, dando atributos reales para asemejarse a la realidad.
