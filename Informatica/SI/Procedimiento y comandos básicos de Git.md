@@ -2,7 +2,7 @@
 Se asume que estamos trabajando en una carpeta exclusiva para el repositorio, es decir la carpeta solo contiene archivos de repositorio.
 ## 0: Cosas que tener antes
 1. El repositorio al que quieres subir los archivos. Al crear un repositorio te dan una URL que necesitaremos copiar para trabajar con el. En este caso la URL de mi repositorio es: https://github.com/MatiasAGomezJ/apuntes.git
- 
+
 2. La carpeta en la que vas a trabajar
 	P.ej:
 	```bash
