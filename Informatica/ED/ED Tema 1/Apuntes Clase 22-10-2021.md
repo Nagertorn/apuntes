@@ -1,4 +1,4 @@
-# Clase 22-10-2021
+# Apuntes Clase 22-10-2021
 ```java
 class Libro {
 
