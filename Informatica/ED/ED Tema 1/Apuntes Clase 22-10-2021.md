@@ -1,4 +1,4 @@
-# Clase 22/10/2021
+# Clase 22-10-2021
 ```java
 class Libro {
 
@@ -39,7 +39,7 @@ class Libro {
 
 Indice
 
-				XV
+			XV
 1. Introduccion.........1
 2. Parte 2.................~~2~~ 3
 
