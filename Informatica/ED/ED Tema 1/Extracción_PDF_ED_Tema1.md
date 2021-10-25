@@ -89,7 +89,6 @@ El **código ejecutable** es **interpretado** <ins>directamente por el ordenador
 ![](https://i.imgur.com/6p5urZ7.png)
 #### TL;DR
 El **código fuente** desarrollado por los programadores se convertirá en **código objeto** con la ayuda del **compilador**. Este ayudará a localizar los errores de sintaxis o de compilación que se encuentren en el código fuente. Con el **enlazador**, que recogerá el código objeto y las **librerías** generará el **código ejecutable**.
-
 ![](https://i.imgur.com/eu038dg.png)
 ### Maquina virtual
 El concepto de [[Máquina virtual]] surge con el objetivo de facilitar el desarrollo de compiladores que generan código para **diferentes procesadores**.
