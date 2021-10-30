@@ -21,7 +21,7 @@ Debe producir el mismo resultado.
 
 En el **mundo de TI**, la forma en que se estructuran las tareas que deben ser ejecutadas es similar a los programas de electrodomésticos. En este caso el <ins>ordenador</ins> transforma <ins>información o datos</ins>.
 
-Un **[[Programa informático]]** son una serie de **órdenes** que se llevan a cabo **secuencialmente**, aplicadas sobre un conjunto de **datos**.
+Un **[[programa informático]]** son una serie de **órdenes** que se llevan a cabo **secuencialmente**, aplicadas sobre un conjunto de **datos**.
 
 Qué datos procesa un programa informático?
 

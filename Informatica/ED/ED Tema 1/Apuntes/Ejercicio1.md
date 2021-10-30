@@ -1,5 +1,4 @@
-Partes interesadas
-
+### Partes interesadas
 - Cliente - RF_Cliente_XX:
 	- RF_Cliente_01: Realiza consulta
 		- Especificar urgencia
