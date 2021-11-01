@@ -7,7 +7,7 @@
 ## 1. Concepto de programa informático
 **Programa**: conjunto de eventos ordenados de manera que se suceden de forma secuencial en el tiempo, uno tras otro.
 ### Un programa en TI
-En los electrodomésticos, lo que se sucede son un conjunto de **[[órdenes]]** que la máquina sigue ordenadamente. Una vez seleccionado el [[programa]] que queremos, el electrodoméstico hace todas las tareas correspondientes de manera autónoma.
+En los electrodomésticos, lo que se sucede son un conjunto de **[[Órdenes]]** que la máquina sigue ordenadamente. Una vez seleccionado el [[Programa]] que queremos, el electrodoméstico hace todas las tareas correspondientes de manera autónoma.
 ### Una receta es un programa
 1. Espera que introduzca las zanahorias bien limpiadas, una patata y especias al gusto.
 2. Gira durante 1 minuto, avanzando progresivamente hasta la velocidad 5.
@@ -21,7 +21,7 @@ Debe producir el mismo resultado.
 
 En el **mundo de TI**, la forma en que se estructuran las tareas que deben ser ejecutadas es similar a los programas de electrodomésticos. En este caso el <ins>ordenador</ins> transforma <ins>información o datos</ins>.
 
-Un **[[programa informático]]** son una serie de **órdenes** que se llevan a cabo **secuencialmente**, aplicadas sobre un conjunto de **datos**.
+Un **[[Programa informático]]** son una serie de **órdenes** que se llevan a cabo **secuencialmente**, aplicadas sobre un conjunto de **datos**.
 
 Qué datos procesa un programa informático?
 
