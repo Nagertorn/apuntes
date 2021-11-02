@@ -7,7 +7,7 @@
 ## 1. Concepto de programa informático
 **Programa**: conjunto de eventos ordenados de manera que se suceden de forma secuencial en el tiempo, uno tras otro.
 ### Un programa en TI
-En los electrodomésticos, lo que se sucede son un conjunto de **[[Órdenes]]** que la máquina sigue ordenadamente. Una vez seleccionado el [[Programa]] que queremos, el electrodoméstico hace todas las tareas correspondientes de manera autónoma.
+En los electrodomésticos, lo que se sucede son un conjunto de **Órdenes** que la máquina sigue ordenadamente. Una vez seleccionado el Programa que queremos, el electrodoméstico hace todas las tareas correspondientes de manera autónoma.
 ### Una receta es un programa
 1. Espera que introduzca las zanahorias bien limpiadas, una patata y especias al gusto.
 2. Gira durante 1 minuto, avanzando progresivamente hasta la velocidad 5.
@@ -21,7 +21,7 @@ Debe producir el mismo resultado.
 
 En el **mundo de TI**, la forma en que se estructuran las tareas que deben ser ejecutadas es similar a los programas de electrodomésticos. En este caso el <ins>ordenador</ins> transforma <ins>información o datos</ins>.
 
-Un **[[Programa informático]]** son una serie de **órdenes** que se llevan a cabo **secuencialmente**, aplicadas sobre un conjunto de **datos**.
+Un **Programa informático** son una serie de **órdenes** que se llevan a cabo **secuencialmente**, aplicadas sobre un conjunto de **datos**.
 
 Qué datos procesa un programa informático?
 
@@ -44,14 +44,14 @@ Por "*ejecutar un programa*" se entiende que el ordenador siga todas sus órdene
 
 Un ordenador es incapaz de hacer absolutamente nada por sí mismo, siempre hay que decirle qué debe hacer, mediante la ejecución de programas.
 ## 2. Código fuente, código objeto y código ejecutable: Máquinas virtuales
-Un ordenador es una máquina binaria y solo puede trabajar con 0 y 1 : [[Lenguaje máquina]]
+Un ordenador es una máquina binaria y solo puede trabajar con 0 y 1 : Lenguaje máquina
 00010100110 011 101
 **Sumar 3 + 5 y guardar el resultado en un registro concreto**
 
-Para [[Crear un programa]] lo que se hará será **crear un archivo** y **escribir** en un fichero la serie de **instrucciones** que se quiere que el ordenador ejecute.
+Para Crear un programa lo que se hará será **crear un archivo** y **escribir** en un fichero la serie de **instrucciones** u órdenes que se quiere que el ordenador ejecute.
 Estas instrucciones deberán **seguir unas pautas determinadas en función del lenguaje de programación escogido**. Además, deberían seguir un orden determinado que dará sentido al programa escrito.
 
-El **código fuente** es el conjunto de archivos de texto resultantes, donde se encuentran las instrucciones.
+El código fuente es el conjunto de archivos de texto resultantes, donde se encuentran las instrucciones.
 
 Este código fuente puede ser desde un **nivel muy alto**, muy cerca del lenguaje humano, hasta un **nivel más bajo**, más cercano al código de las máquinas, como ahora el código ensamblador.
 ### Proceso de traducción
@@ -67,7 +67,7 @@ Para poder generar código máquina hay que hacer un proceso de **traducción** 
 ![](https://i.imgur.com/JDdupKc.png)
 
 #### Compilación
-El **compilador** el programa encargade de la traducción del código fuente de los archivos del programa en ficheros en formato binario que contienen las instrucciones en un formato que el procesador puede entender.
+El **compilador** es el programa encargado de la traducción del código fuente de los archivos del programa en ficheros en formato binario que contienen las instrucciones en un formato que el procesador puede entender.
 
 ![](https://i.imgur.com/W3B9knB.png)
 #### Código objeto
@@ -79,7 +79,7 @@ El **enlazador** es el encargado de insertar al código objeto las funciones de 
 
 ![](https://i.imgur.com/qpRSdCD.png)
 ##### Libreria
-Una **librería** (library en inglés) es un colección de código predefinido que facilita la tarea del programador a la hora de codificar un programa.
+Una librería (library en inglés) es un colección de código predefinido que facilita la tarea del programador a la hora de codificar un programa.
 
 ![](https://i.imgur.com/qpRSdCD.png)
 #### Código ejecutable
@@ -89,9 +89,10 @@ El **código ejecutable** es **interpretado** <ins>directamente por el ordenador
 ![](https://i.imgur.com/6p5urZ7.png)
 #### TL;DR
 El **código fuente** desarrollado por los programadores se convertirá en **código objeto** con la ayuda del **compilador**. Este ayudará a localizar los errores de sintaxis o de compilación que se encuentren en el código fuente. Con el **enlazador**, que recogerá el código objeto y las **librerías** generará el **código ejecutable**.
+
 ![](https://i.imgur.com/eu038dg.png)
 ### Maquina virtual
-El concepto de [[Máquina virtual]] surge con el objetivo de facilitar el desarrollo de compiladores que generan código para **diferentes procesadores**.
+El concepto de **Máquina virtual** surge con el objetivo de facilitar el desarrollo de compiladores que generan código para **diferentes procesadores**.
 
 La compilación consta de dos fases:
 - La primera parte del código fuente en un lenguaje intermedio obteniendo un programa equivalente con un menor nivel de abstracción que el original y que no puede ser directamente ejecutado.

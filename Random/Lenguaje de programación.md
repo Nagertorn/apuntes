@@ -1,10 +1,12 @@
 # Lenguaje de programación
-Un lenguaje de programación es un [[Lenguaje formal]] que proporciona a una persona, en este caso el programador, la capacidad de escribir/programar una serie de instrucciones o secuencias de [[Órdenes]] en forma de algoritmos con el fin de controlar el comportamiento fisico o logico de un [[Sistema informatico]]. A todo conjunto de órdenes escritas mediante un lenguaje de programación se le denomina [[Programa informático]].
+Un **lenguaje de programación** es un lenguaje que permite establecer una comunicación entre el hombre y la máquina.
 
-Los dos típos mas utilizados son:
+El lenguaje de programación identificará el [[código fuente]], que el programador desarrollará para indicar a la máquina qué pasos debe dar ( [[órdenes]] ), una vez este código se haya convertido en [[código ejecutable]].
 
-Lenguaje de programación imperativa o por pocedimientos | [[Lenguaje de programación orientado a objetos]]
-:-: | :-:
- [[C]] | [[Java]]
-[[Basic]] | [[C++]]
-[[Pascal]] | [[Python]]
+Los diferentes tipos de lenguajes son:
+
+-   [[Lenguaje de 1ª generación]] o lenguaje máquina.
+-   [[Lenguajes de 2ª generación]] o lenguajes de ensamblador.
+-   [[Lenguajes de 3ª generación]] o lenguajes de alto nivel.
+-   [[Lenguajes de 4ª generación]] o lenguajes de propósito específico.
+-   [[Lenguajes de 5ª generación]].
