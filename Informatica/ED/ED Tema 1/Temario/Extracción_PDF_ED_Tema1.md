@@ -1,9 +1,9 @@
 # Introducción al desarrollo de software
-- 1 Concepto de programa informático
-- 2 Código fuente, código objeto y código ejecutable: Máquinas virtuales
-- 3 Tipos de lenguajes de programación
-- 4 Paradigmas de programación
-- 5 Características de los lenguajes más difundidos
+1. Concepto de programa informático
+2. Código fuente, código objeto y código ejecutable: Máquinas virtuales
+3. Tipos de lenguajes de programación
+4. Paradigmas de programación
+5. Características de los lenguajes más difundidos
 ## 1. Concepto de programa informático
 **Programa**: conjunto de eventos ordenados de manera que se suceden de forma secuencial en el tiempo, uno tras otro.
 ### Un programa en TI
