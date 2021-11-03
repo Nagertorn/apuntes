@@ -9,7 +9,7 @@ Sumar 3 + 5 y guardar el resultado en un registro concreto | Sumar 3 + 5 y guard
 
 **Cada instrucción en lenguaje ensamblador corresponde a una instrucción en lenguaje máquina**. Estos tipos de lenguajes **dependen totalmente del procesador** que utilice la máquina, por eso se dice que están orientados a las máquinas.
 
-A partir del código escrito en lenguaje ensamblador, el programa traductor (ensamblador) lo convierte en código en un [[lenguaje de 1ª generación]], que será interpretado por la máquina.
+A partir del código escrito en lenguaje ensamblador, el programa traductor (ensamblador) lo convierte en código en un [[Lenguaje de 1ª generación]], que será interpretado por la máquina.
 
 ![](https://i.imgur.com/i6zib98.png)
 

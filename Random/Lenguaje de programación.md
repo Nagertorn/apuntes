@@ -11,7 +11,7 @@ Los diferentes tipos de lenguajes son:
 -   [[Lenguajes de 4ª generación]] o lenguajes de propósito específico.
 -   [[Lenguajes de 5ª generación]].
 
-A partir de los lenguajes de 3ª generación, como consecuencia del alejamiento de la máquina y acercamiento a las personas, los programas escritos no pueden ser interpretados directamente por el ordenador, sino que es necesario llevar a cabo previamente su [[proceso de traducción]] a [[lenguaje máquina]]. Hay dos tipos de traductores: el [[compilador]] y el [[intérprete]].
+A partir de los lenguajes de 3ª generación, como consecuencia del alejamiento de la máquina y acercamiento a las personas, los programas escritos no pueden ser interpretados directamente por el ordenador, sino que es necesario llevar a cabo previamente su [[proceso de traducción]] a [[lenguaje máquina]]. Hay dos tipos de traductores: el [[compilador]] y el [[Intérprete]].
 
 ## Compiladores vs intérpretes
 **El intérprete es más lento que el compilador**, ya que lleva a cabo la traducción vez que la ejecución. Además, esta traducción se hace siempre que ejecuta el programa, mientras que el compilador sólo la lleva a cabo una vez.
