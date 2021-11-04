@@ -5,7 +5,7 @@ El lenguaje de programación identificará el [[código fuente]], que el program
 
 Los diferentes tipos de lenguajes son:
 
--   [[Lenguaje de 1ª generación]] o lenguaje máquina.
+-   [[Lenguaje de 1ª generación]] o [[lenguaje máquina]].
 -   [[Lenguajes de 2ª generación]] o lenguajes de ensamblador.
 -   [[Lenguajes de 3ª generación]] o lenguajes de alto nivel.
 -   [[Lenguajes de 4ª generación]] o lenguajes de propósito específico.

@@ -1,5 +1,5 @@
 # Lenguaje de 1ª generación
-El **lenguaje de 1ª generación o lenguaje máquina** es el primer [[lenguaje de programación]] que se desarrolló. Es el **único lenguaje que entiende el ordenador directamente**.
+El **lenguaje de 1ª generación o lenguaje máquina** es el primer [[Lenguaje de programación]] que se desarrolló. Es el **único lenguaje que entiende el ordenador directamente**.
 
 P.ej.
 00010100110 011 101  

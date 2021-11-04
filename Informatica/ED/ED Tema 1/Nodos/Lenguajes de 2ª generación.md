@@ -1,5 +1,5 @@
 # Lenguajes de 2ª generación
-El segundo tipo de [[lenguaje de programación]] son los **lenguajes de segunda generación o lenguajes de ensamblador**.
+El segundo tipo de [[Lenguaje de programación]] son los **lenguajes de segunda generación o lenguajes de ensamblador**.
 
 Es primer lenguaje de programación que utiliza códigos **mnemotécnicos** para indicar a la máquina las operaciones que debe llevar a cabo. Estas operaciones, muy básicas, han sido diseñadas a partir del conocimiento de la estructura interna de la propia máquina.
 

@@ -6,3 +6,5 @@ Algunas **características** de los lenguajes interpretados son:
 - Cada sistema tiene su propio intérprete
 
 **Lenguajes interpretados : JavaScript, PHP, ASP, BASIC, Perl, Python, Ruby**
+
+#ED 

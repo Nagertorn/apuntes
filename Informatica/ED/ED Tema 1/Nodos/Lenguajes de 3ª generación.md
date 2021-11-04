@@ -1,5 +1,5 @@
 # Lenguajes de 3ª generación
-El siguiente tipo de [[lenguaje de programación]] se conoce como lenguajes de **tercera generación o lenguajes de alto nivel**. Estos lenguajes, más evolucionados, utilizan palabras y frases relativamente fáciles de entender y proporcionan también facilidades para expresar alteraciones del flujo de control de una forma bastante sencilla e intuitiva.
+El siguiente tipo de [[Lenguaje de programación]] se conoce como lenguajes de **tercera generación o lenguajes de alto nivel**. Estos lenguajes, más evolucionados, utilizan palabras y frases relativamente fáciles de entender y proporcionan también facilidades para expresar alteraciones del flujo de control de una forma bastante sencilla e intuitiva.
 
 Los lenguajes de tercera generación o de alto nivel **se utilizan cuando se quiere desarrollar aplicaciones grandes y complejas**, donde se prioriza el hecho de facilitar y comprender cómo hacer las cosas (lenguaje humano) por encima del rendimiento del software o del uso de la memoria.
 - Surgen de los esfuerzos encaminados a hacer la tarea de programación independiente de la máquina donde se ejecutarán.

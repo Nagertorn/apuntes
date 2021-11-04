@@ -23,3 +23,5 @@ La máquina virtual Java se sitúa en un **nivel superior al hardware** sobre el
 Una maquina virtual es utilizada porque sino es necesario crear el codigo objeto para cada S.O.
 
 Al usar la M.V. podemos crearlo el codigo objeto sin problemas y despues usar un interprete ( la maquina virtual ) para cada S.O.
+
+#ED #ProcesoTraduccion 
