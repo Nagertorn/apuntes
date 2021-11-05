@@ -111,7 +111,7 @@ Como ya he dit, paso de la historia
 tres termes emprats per tots els llenguatges de marques, parts d'un document
 - Elements: estructures mitjançant les quals s'organitzarà el contingut del document. Consten de:
 	-  l'etiqueta d'inici
-	-  l'etiqueta de cap
+	-  l'etiqueta de fi
 	-  i de tot allò que es troba entre les dues.
 		-  Alguns elements no tenen contingut: elements buits i no han de dur cap etiqueta.
 - Etiqueta o tag: text que va entre (<) i (>). Existeixen etiquetes d'inici (ex. `<nom>`) i etiquetes de fi (ex. `</ nom>`).
