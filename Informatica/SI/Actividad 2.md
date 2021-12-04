@@ -19,6 +19,7 @@ Y para finalizar están los sistemas de **Apple**, los cuales son **iOS**, para 
 También existe el, algo nuevo, sistema operativo **Chrome OS**, el cual se utiliza en portátiles, como se puede suponer, este SO fue creado por **Google**.
 ###### Busca, nombra y describe 3 sistemas informáticos que no utilicen sistema operativo.
 Al principio los ordenadores no tenian sistema operativo.
+Una gameboy
 ###### Describe brevemente qué es un proceso.
 Un proceso es un programa en ejecución en un sistema operativo.
 ###### ¿Qué sistema de almacenamiento utiliza tu sistema operativo? (ext4, NTFS y exFAT).
