@@ -35,6 +35,7 @@ El punto de vista que se utiliza para elaborar los diagramas de casos de uso es 
 Los mismos usuarios lo pueden entender y participar en su corrección. Con este tipo de diagrama se podrá crear una documentación adecuada para las necesidades de la toma de requerimientos.
 
 **Los diagramas de casos de uso representan los diferentes requerimientos que utilizan usuarios finales de un determinado sistema. A partir de la utilización de actores y de casos de uso, este tipo de diagramas moldean las diferentes funcionalidades que podrá ofrecer un sistema.**
+
 **Un caso de uso es una funcionalidad o un servicio que ofrece el sistema a modelizar a sus usuarios finales**. Es un conjunto de interacciones secuenciadas que se desarrollan entre los actores y el sistema para dar respuesta a un evento que inicia un actor.
 
 En la modelización de un sistema podrá haber muchos casos de uso. Esto se debe al hecho que cada caso de uso deberá dar respuesta sólo a una característica concreta del sistema. Así, con esta representación del sistema, el usuario final podrá validar fácilmente que el analista ha entendido correctamente el funcionamiento del sistema que de representar.
