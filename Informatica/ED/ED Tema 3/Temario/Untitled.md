@@ -9,3 +9,4 @@ Que entra
 - Diagrama de casos de uso + tabla
 - Diagrama de secuencia
 - Teoria
+	-  F
