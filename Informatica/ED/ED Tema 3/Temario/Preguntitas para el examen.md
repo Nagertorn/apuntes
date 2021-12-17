@@ -1,5 +1,12 @@
 # Apuntes Examen Diciembre ED
-
+1. 1P. Identificar partes interesadas
+2. 3P. Identificar requisitos funcionales de las partes interesadas (2-3 por cada una d ellas)
+3. 6P Elige dos:
+	1. 3P Diagramas de casos de uso
+	2. 3P Diagramas de secuencia
+	3. 3P Teoria
+		1. 1,5P Fases general del ciclo del desarrollo del software y/o metodologias usadas ( igual hay que explicarlas)
+		2. 1,5P Diagramas de comportamiento (definición, clasificación)
 ## 1P Primer Ejercicio: Identificar partes interesadas
 - Cliente - RF_Cliente_XX
 - Técnico - RF_Técnico_XX
