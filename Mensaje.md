@@ -1,5 +1,5 @@
 # Mensaje
-Un **mensaje** es la especificación de la comunicación entre objetos. Un mensaje se representa con una flecha del emisor hacia el receptor; diferentes tipos de mensaje se representan con diferentes tipos de flechas:
+Un **mensaje** es la **especificación de la comunicación entre objetos**. Un mensaje se representa con una flecha del emisor hacia el receptor; diferentes tipos de mensaje se representan con diferentes tipos de flechas:
 - [[Mensaje asíncrono]]
 - [[Mensaje síncrono]]
 - [[Mensaje de respuesta de un mensaje síncrono]]

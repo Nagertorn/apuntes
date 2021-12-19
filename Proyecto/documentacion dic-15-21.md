@@ -16,7 +16,6 @@ Explicacion metodologia aplicada y sus fases
 # Disneño
 - Mapa conceptual proyecto
 - ***Esquema de BBDD***
-- Futuras prubas a realizar
 # Implementación
 - Herramientas utilizados
 - BackEnd
