@@ -12,7 +12,7 @@ Explicacion metodologia aplicada y sus fases
 - Diagrama de casos de uso (UML)
 - Posibles tecnologias
 - Eleccion tecnologia => Matriz requisitos/tecnologias
-	-	Requisitos son lo que nos pide la practica
+	- Requisitos son lo que nos pide la practica
 # Disneño
 - Mapa conceptual proyecto
 - ***Esquema de BBDD***

@@ -93,14 +93,18 @@ $jsonSchema: {
 # Implementacion
 Aqui explicaremos las diferentes herramientas que se han utilizado para la creación del software, separa en BackEnd, FrontEnd y General:
 - BackEnd:
-	- MongoAtlas
-	- Python
-	- Modulo de python
+	- MongoAtlas: Servicio que nos permite tener bases de datos en la nube
+	- Python: Lenguaje de programacion con el que se ha programado todo el programa
+	- Modulo de python: Hemos usado diversos modulos que nos facilitaban ciertas tareas:
+		- pymongo: Nos permite realizar la conexion a la base de datos y trabajar con los datos que haya dentro
+		- certifi: Necesario para conectarse con la base de datos de manera correcta
+		- os: Nos permite trabajar con directorios
+		- shutil: Necesario para copiar archivos de una carpeta a otra 
 - FrontEnd
-	- Hugo
+	- Hugo: Es un generador de sitios estaticos en cual utilizamos para poder visualizar los documentos makrdown
 - General
-	- VSCode
-	- Git
+	- VSCode: Editor de texto en el cual hemos programado todo el codigo
+	- Git: Control de versiones
 # Pruebas
 ## Accesso a datos
 Con las funciones de acceso a datos no hemos realizado muchas pruebas.
@@ -143,7 +147,7 @@ lista_docs = obtener_documentos(coleccion, filtro)
 for doc in lista_docs:
 	assert doc[clave_filtro] == valor_filtro
 ```
-Despues comprobamos que sucede cuando el filtro esta vacio.
+Otro test es comprobar que sucede cuando el filtro esta vacio.
 1. Lo unico diferente es cuando utilizamos la funcion de obtener documentos, a está le pasamos un diccionario vacio, por lo que debería volver todos los documentos dentro de una coleccion.
 2. Despues comprobamos que la cantidad de documentos dentro de la lista sea la misma que los que hay en la coleccion.
 ```python
@@ -231,4 +235,60 @@ for linea in archivo.readlines():
 	
 assert texto == acu
 ```
-- `mover_markdowns(ruta_destino)`.
+El segundo test comprueba que sucede cuando el filtro texto esta vacio. En este test se reutiliza el mismo codigo que en test anterior, ademas de una linea la cual utiliza la funcion `getsize`. En esta linea comprobamos que el tamaño del archivo que hemos creado sea 0.
+```python
+texto = ""
+nombre = "nombre2"
+
+crear_archivos_markdown(texto, nombre)
+
+ruta_archivo = "./markdowns/" + nombre + ".md"
+
+assert path.isfile(ruta_archivo)
+
+archivo = open(ruta_archivo, "r")
+
+acu = ""
+for linea in archivo.readlines():
+	acu += linea
+
+assert texto == acu
+assert path.getsize(ruta_archivo) == 0
+ ```
+El ultimo test comprueba que sucede cuando el nombre esta vacio. Al igual que el anterior el codigo es practicamente el mismo que el primero, con la unica diferencia de que al crear la variable `ruta_archivo`, en vez de poner la variable nombre, pone `default`, que es el nombre que le hemos puesto por defecto a la funcion.
+```python
+texto = "texto2"
+nombre = ""
+
+crear_archivos_markdown(texto, nombre)
+
+ruta_archivo = "./markdowns/" + "default" + ".md"
+
+assert path.isfile(ruta_archivo)
+
+archivo = open(ruta_archivo, "r")
+
+acu = ""
+for linea in archivo.readlines():
+	acu += linea
+	
+assert texto == acu
+```
+`mover_markdowns(ruta_destino)`.
+Este modulo copia todos los archivos dentro de la carpeta `markdown`, carpeta que hemos creado en el otro modulo, dentro de la carpeta en `ruta_destino`. Solo hay un test que comprueba que funcione.
+1. Especicamos la carpeta donde estan los archivos markdown.
+2. Despues guardamos la ruta de donde copiaremos los archivos.
+3. Llamaremos a la funcion pasandole la `ruta_destino`.
+4. Para finalizar, comprobamos que en la `ruta_destino` hayan la misma cantidad de archivos que en la `ruta_origen`
+```python
+ruta_origen = "./markdowns"
+ruta_destino = "./logica/test/carpeta_de_prueba/"
+
+mover_markdowns(ruta_destino)
+
+assert len(listdir(ruta_origen)) == len(listdir(ruta_destino))
+```
+
+s|fssgsadfsadf|afdasdfdasf|dsfgsdhhgbkdm|gijsdogikjoi0|oañisjgoiejvoidgpokpo|oañisjgoiejvoidgpokpo|oañisjgoiejvoidgpokpoaoañisjgoiejvoidgpokpo|oañisjgoiejvoidgpokpoqoañisjgoiejvoidgpokpo|oañisjgoiejvoidgpokpoa|q|a|q|a|q|a|q
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+j|r|k
