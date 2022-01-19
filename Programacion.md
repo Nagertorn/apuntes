@@ -49,3 +49,8 @@ le decimos al compilador que lo que se escribe posterior a `lambda` es una funci
 
 >***Consejazo***
 >TDD a muerte
+
+
+Las clases tienen funciones built-in y se suelen sobreescribir
+
+Para el bowling usar coverage
