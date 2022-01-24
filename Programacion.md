@@ -54,3 +54,19 @@ le decimos al compilador que lo que se escribe posterior a `lambda` es una funci
 Las clases tienen funciones built-in y se suelen sobreescribir
 
 Para el bowling usar coverage
+
+# DDD
+Los diagramas y modelos sirven para explicar de manera sencilla , logico de modelo destilada, solo lo que aporta valor al comprador del software.
+
+L: Principio de sustitucion de Liskov
+Programo entidades que exiben un 
+
+Si hay varios objetos que tienen la misma ogica lo meteremos en el mismo objeto
+
+Entidades:
+
+CilderRose |
+:--: |
+stock |
+update_quality <br> add_item |
+
