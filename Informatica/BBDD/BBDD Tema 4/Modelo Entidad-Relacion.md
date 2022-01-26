@@ -1,6 +1,4 @@
 # Modelo Entidad-Relacion
-# Modelo Entidad-Relacion
-# Modelo Entidad-Relacion
 Trata sobre entidades y sus relaciones
 
 En el POO, una entidad equivale a un objeto.

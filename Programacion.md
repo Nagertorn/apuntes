@@ -70,3 +70,6 @@ CilderRose |
 stock |
 update_quality <br> add_item |
 
+### Ni idea donde va esto brother
+El codigo de las distinas capas no tiene que estar conectado
+
